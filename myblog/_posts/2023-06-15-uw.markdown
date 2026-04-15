@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "I got my Bachelor's!"
+date:   2023-06-15
+categories: jekyll update
+---
+Today I officially graduated from the University of Waterloo with a Bachelor of Science degree! I would like to thank everyone, including my parents, my friends, and my professors along this journey - thank you all for supporting me and allowing me to find my passions and the things I like!
+
+![](/pics/grad.jpg)

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "I presented at ISMB 2025"
+date:   2024-05-10
+categories: jekyll update
+---
+
+I presented my poster about my domain adaptation model, [SPAGHETTI](https://www.github.com/schwartzlab-methods/spaghetti), at the 2025 Conference on Intelligent Systems for Molecular Biology (ISMB2025) in Liverpool, United Kingdom. I learnt so much from the talks and posters and met a few new friends along the way ;)
+
+[](/pics/ismb_2025.jpg)

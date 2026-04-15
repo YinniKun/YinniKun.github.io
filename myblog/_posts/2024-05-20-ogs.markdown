@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "I received Ontario Graduate Scholarship"
+date:   2024-05-10
+categories: jekyll update
+---
+
+I am honoured to receive the Ontario Graduate Scholarship for the upcoming school year!

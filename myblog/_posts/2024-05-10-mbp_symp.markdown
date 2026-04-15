@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "I presented at the MBP Student Symposium and got Top 10 poster!"
+date:   2024-05-10
+categories: jekyll update
+---
+
+Today I presented my poster at the MBP student symposium and got a Top 10 poster award! Look forward to making the research presented a reality soon!
+
+You can read about the symposium at [here](https://medbio.utoronto.ca/news/annual-research-symposium-brings-mbp-together-2)
+
+![](/pics/2024_mbp_symposium.JPG)
