@@ -6,6 +6,8 @@ permalink: /experiences
 
 I have various experiences working as research assistants, science communicators, science outreach volunteers, and eductors in both academia and industry.
 
+-----------
+
 ## Academic Experiences
 
 ### Graduate Student Researcher, Princess Margaret Cancer Centre
@@ -40,6 +42,7 @@ machine learning
     - [**SARS-CoV-2 in-host dynamics**](https://github.com/YinniKun/covid-treatment-model): A simulation of the in-host viral dynamics of SARS-CoV-2 written in R
     - [**COVID-19 disease dynamics**](https://github.com/YinniKun/covid-trajectory): A simulation of the disease dynamics of COVID-19 written in Python
 
+
 ### Research Associate, The Hong Kong Polytechnic University
 #### Jan 2021 - Aug 2021 
 - **Supervisor**: Dr. Xin Zhao, Professor, Department of Biomedical Engineering
@@ -48,7 +51,11 @@ machine learning
     - Conducted in vivo animal experiments to test the effect of bio-mimicking materials for the long-term prevention of hypertrophic scars
     - Written manuscripts to present findings in both review and research manuscripts
 
+-----------
+
 ## Outreach Experiences
+
+
 ### Podcast Speaker, Pierre Elliott Trudeau High School Alumni Network 
 #### Feb 2024
 - Podcast guest for [Episode 10: Pursuing a Ph.D. in Medical Biophysics](https://www.youtube.com/watch?v=FJoJiC7NHHE)
@@ -59,7 +66,11 @@ machine learning
 - Managed a social media account and composed science educational articles for the public
 - Held meetings with recruited authors to check writing progress and assigned topics to authors for publication
 
+-----------
+
+
 ## Professional Experiences
+
 ### Guest Lecturer, University of Waterloo
 #### Jul 2024 
 - Guest lecturer for PHYS 383: Molecular and Cellular Biophysics

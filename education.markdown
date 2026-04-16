@@ -5,8 +5,9 @@ permalink: /education/
 ---
 
 ## University of Toronto (Toronto, Ontario, Canada)
-### Doctor of Philosophy in Medical Biophysics
-#### 2023 - 2028 (exp.)
+#### Doctor of Philosophy
+#### Medical Biophysics
+##### 2023 - 2028 (exp.)
 I am a Ph.D. student at the [Department of Medical Biophysics](https://medbio.utoronto.ca) at University of Toronto
 and a member of the [Schwartz Lab](https://schwartzlab.ca) at Princess Margaret Cancer Centre, University Health Network and Vector Institute for Artificial Intelligence. 
 
@@ -29,10 +30,13 @@ My thesis involves designing computational machine learning models to understand
 - Ontario Graduate Scholarship (2024)
 - Temerty Faculty of Medicine Entrance Scholarship (2023)
 
+-----
+
 ## University of Waterloo (Waterloo, Ontario, Canada)
-### Bachelor of Science 
-#### Major in Life Physics (Medical Physics Specialization) and Minor in Biology and Bioinformatics (Co-op Program)
-#### 2018 - 2023
+#### Bachelor of Science 
+#### Major in Co-op Life Physics (Medical Physics Specialization)
+#### Minor in Biology and Bioinformatics
+##### 2018 - 2023
 I completed my undergraduate studies with a cumulative GPA of 94% and received Dean's Honour for all academic terms.
 
 #### Main courses taken
