@@ -1,8 +1,6 @@
 ---
-layout: post
 title:  "I received STARTS21 Scholarship!"
-date:   2024-05-10
-categories: jekyll update
+date:   2025-09-01
 ---
 
 I am hournored to receive the [Strategic Training in Transdisciplinary Radiation Science for the 21st Century (STARS21)](https://radonc.utoronto.ca/stars21) scholarship from the Department of Radiation Oncology in University of Toronto! I will explore different deep learning methods to understand radiation biology in order to improve radiation therapy outcome
