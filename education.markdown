@@ -4,6 +4,10 @@ title: Education
 permalink: /education/
 ---
 
+# Education
+
+-----------
+
 ## University of Toronto (Toronto, Ontario, Canada)
 #### Doctor of Philosophy
 #### Medical Biophysics
@@ -25,10 +29,10 @@ My thesis involves designing computational machine learning models to understand
 - MBP1304H: Predictive Oncology and Therapeutics
 
 #### Awards
-- STARS21 Scholarship (2025)
+- [STARS21 Scholarship](https://radonc.utoronto.ca/stars21) (2025)
 - Princess Margaret Cancer Centre Ontario Student Opportunity Trust Fund (2025)
-- Ontario Graduate Scholarship (2024)
-- Temerty Faculty of Medicine Entrance Scholarship (2023)
+- [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html) (2024)
+- [Temerty Faculty of Medicine Entrance Scholarship](https://rhse.temertymedicine.utoronto.ca/temerty-graduate-entrance-scholarships-0) (2023)
 
 -----
 

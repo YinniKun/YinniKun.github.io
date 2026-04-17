@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I presented at ISMB 2025"
+title:  "I presented at ISMB 2025 in Liverpool"
 date:   2024-05-10
 categories: jekyll update
 ---

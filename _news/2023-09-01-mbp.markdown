@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I start my Ph.D. in MBP"
+title:  "I started my Ph.D. in MBP"
 date:   2023-09-01
 categories: jekyll update
 ---
