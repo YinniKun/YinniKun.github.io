@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UWaterloo Notes
-permalink: /uwaterloo-notes
+permalink: /notes
 ---
 
 # My Course Notes from the University of Waterloo
