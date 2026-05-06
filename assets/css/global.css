@@ -90,3 +90,33 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0.5em 0.5em 0;
+    margin-bottom: 1em;
+}
+
+summary {
+    font-weight: bold;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+    cursor: pointer;
+}
+
+details[open] {
+    padding: 0.5em;
+}
+
+summary {
+  font-size: 1.25rem; /* Makes text larger */
+  font-weight: bold;  /* Makes it stand out */
+  cursor: pointer;    /* Shows a hand icon on hover */
+  padding: 10px 0;    /* Adds some breathing room */
+  outline: none;      /* Removes the default focus box in some browsers */
+}
+
+/* Optional: Add a hover effect to show it's clickable */
+summary:hover {
+  color: #0056b3; /* A nice UofT blue */
+}
