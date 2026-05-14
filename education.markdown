@@ -36,7 +36,7 @@ My thesis involves designing computational machine learning models to understand
 - [Temerty Faculty of Medicine Entrance Scholarship](https://rhse.temertymedicine.utoronto.ca/temerty-graduate-entrance-scholarships-0) (2023)
 
 #### Conference Talks and Presentations
-- UTDRO/STARS21 Research Day (2025)
+- UTDRO/STARS21 Research Day (2026)
     - *Title:* PENNE Infers Whole Transcriptomic Profiles from Live-cell Phase Contrast Microscopy Images through Domain Adaptation and Gated Attention
 - 2025 Conference on Intelligent Systems for Molecular Biology (ISMB2025)
     - *Title:* SPAGHETTI enhances phase contrast microscopy quantitative analyses using large-scale H&E morphological models through a generative deep learning approach
