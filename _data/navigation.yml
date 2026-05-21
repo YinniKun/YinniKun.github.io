@@ -13,5 +13,7 @@ pages:
   url: /notes
 - name: Publications
   url: /publications
+- name: Places
+  url: /places
 # - name: Showcase
 #   url: /showcase

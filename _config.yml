@@ -35,6 +35,9 @@ plugins:
 timezone: North America/Toronto
 
 collections:
-  - publications
-  - news
-  - showcase
+  publications:
+    output: true
+  news:
+    output: true
+  places:
+    output: false
