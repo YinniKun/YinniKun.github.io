@@ -36,16 +36,21 @@ My thesis involves designing computational machine learning models to understand
 - [Temerty Faculty of Medicine Entrance Scholarship](https://rhse.temertymedicine.utoronto.ca/temerty-graduate-entrance-scholarships-0) (2023)
 
 #### Conference Talks and Presentations
+- 2026 Conference on Intelligent Systems for Molecular Biology (ISMB2026)
+    - *Title:* PENNE Infers Whole Transcriptomic Profiles from Live-cell Phase Contrast Microscopy Images through Domain Adaptation and Gated Attention
+    - *Award*: ISMB2026 Conference Fellowship
 - UTDRO/STARS21 Research Day (2026)
     - *Title:* PENNE Infers Whole Transcriptomic Profiles from Live-cell Phase Contrast Microscopy Images through Domain Adaptation and Gated Attention
 - 2025 Conference on Intelligent Systems for Molecular Biology (ISMB2025)
     - *Title:* SPAGHETTI enhances phase contrast microscopy quantitative analyses using large-scale H&E morphological models through a generative deep learning approach
+    - *Award*: School of Graduate Studies Travel Grant
 - University of Toronto Medical Biophysics Graduate Student Seminar (2025)
     - *Title:* SPAGHETTI enhances phase contrast microscopy quantitative analyses using large-scale H&E morphological models through a generative deep learning approach
 - Temerty Faculty of Medicine Research Showcase (2024)
     - *Title:* Deciphering the transcriptome of dying cells with machine learning
 - University of Toronto Medical Biophysics Symposium (2024)
-    - *Title:* Deciphering the transcriptome of dying cells with machine learning **(Top 10 Poster)**
+    - *Title:* Deciphering the transcriptome of dying cells with machine learning
+    - *Award*: Top 10 Poster
 - University of Toronto Medical Biophysics Graduate Student Seminar (2024)
     - *Title:* Deciphering the transcriptome of dying cells with machine learning
 
