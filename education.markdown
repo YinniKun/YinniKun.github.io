@@ -38,7 +38,7 @@ My thesis involves designing computational machine learning models to understand
 #### Conference Talks and Presentations
 - 2026 Conference on Intelligent Systems for Molecular Biology (ISMB2026)
     - *Title:* PENNE Infers Whole Transcriptomic Profiles from Live-cell Phase Contrast Microscopy Images through Domain Adaptation and Gated Attention
-    - *Award*: ISMB2026 Conference Fellowship
+    - *Award*: ISMB2026 Conference Fellowship,STARS21 Travel Award
 - UTDRO/STARS21 Research Day (2026)
     - *Title:* PENNE Infers Whole Transcriptomic Profiles from Live-cell Phase Contrast Microscopy Images through Domain Adaptation and Gated Attention
 - 2025 Conference on Intelligent Systems for Molecular Biology (ISMB2025)
