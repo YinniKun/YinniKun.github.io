@@ -12,10 +12,9 @@ permalink: /education/
 #### Doctor of Philosophy
 #### Medical Biophysics
 ##### 2023 - 2028 (exp.)
-I am a Ph.D. student at the [Department of Medical Biophysics](https://medbio.utoronto.ca) at University of Toronto
-and a member of the [Schwartz Lab](https://schwartzlab.ca) at Princess Margaret Cancer Centre, University Health Network and Vector Institute for Artificial Intelligence. 
+I am a Ph.D. student at the [Department of Medical Biophysics](https://medbio.utoronto.ca) at University of Toronto. I am a member of the [Schwartz Lab](https://schwartzlab.ca) at Princess Margaret Cancer Centre, University Health Network and Vector Institute for Artificial Intelligence. 
 
-My thesis involves designing computational machine learning models to understand cancer heterogeneity from live-cell microscopy images in order to achieve better radiation treatment results.
+My thesis involves designing machine learning models to understand cancer heterogeneity from cell morphologies in live-cell microscopy images to achieve better radiation treatment results.
 
 #### Courses taken
 - MBP1200H: Scientific Exposition and Ethics
@@ -45,7 +44,7 @@ My thesis involves designing computational machine learning models to understand
     - *Title:* PENNE Infers Whole Transcriptomic Profiles from Live-cell Phase Contrast Microscopy Images through Domain Adaptation and Gated Attention
 - 2025 Conference on Intelligent Systems for Molecular Biology (ISMB2025)
     - *Title:* SPAGHETTI enhances phase contrast microscopy quantitative analyses using large-scale H&E morphological models through a generative deep learning approach
-    - *Award*: School of Graduate Studies Travel Grant
+    - *Award*: University of Toronto School of Graduate Studies Travel Grant
 - University of Toronto Medical Biophysics Graduate Student Seminar (2025)
     - *Title:* SPAGHETTI enhances phase contrast microscopy quantitative analyses using large-scale H&E morphological models through a generative deep learning approach
 - Temerty Faculty of Medicine Research Showcase (2024)
@@ -59,11 +58,11 @@ My thesis involves designing computational machine learning models to understand
 -----
 
 ## University of Waterloo (Waterloo, Ontario, Canada)
-#### Bachelor of Science 
+#### Bachelor of Science (Honours)
 #### Major in Co-op Life Physics (Medical Physics Specialization)
 #### Minor in Biology and Bioinformatics
 ##### 2018 - 2023
-I completed my undergraduate studies with a cumulative GPA of 94% and received Dean's Honour for all academic terms.
+I completed my undergraduate studies with a cumulative GPA of 94% and received Dean's Honour for all academic terms. I majored in Medical Physics, with a strong interest in bioinformatics and mathematical biology.
 
 #### Main courses taken
 - **Basic Math**: Calculus, Linear Algebra, Statistics
