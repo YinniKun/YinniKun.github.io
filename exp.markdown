@@ -70,6 +70,14 @@ machine learning
 ## Outreach Experiences
 
 <details markdown="1">
+<summary>Guest Speaker, SHAD Canada and Quest Language Studies</summary>
+ 
+##### July 2026
+- Gave talks about the responsible uses of AI for high school students through interactive demo
+- Answered questions about future of AI and gave career advices in the age of AI
+</details>
+
+<details markdown="1">
 <summary>Mentor, Univeristy of Toronto Discovery Program</summary>
  
 ##### May 2026

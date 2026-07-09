@@ -28,6 +28,7 @@ My thesis involves designing machine learning models to understand cancer hetero
 - MBP1304H: Predictive Oncology and Therapeutics
 
 #### Awards
+- [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html) (2026)
 - [STARS21 Scholarship](https://radonc.utoronto.ca/stars21) (2025)
 - Dr. J.r. Cunningham Graduate Fellowship In Cancer Research (2025)
 - Graduate Fellowships In Cancer Research (2024)
