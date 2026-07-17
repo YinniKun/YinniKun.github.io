@@ -22,6 +22,7 @@ machine learning
     - Developing machine learning models using PyTorch to infer molecular information from cellular morphology
     - Deploying methods as PyPI packages and Docker images for use by the scientific community.
 - **Related GitHub Repos**:
+    - [**PENNE**](https://github.com/YinniKun/penne): A machine learning method to predict whole transciptomic information at a patch level from phase-contrast microscopy.
     - [**SPAGHETTI**](https://github.com/YinniKun/spaghetti): A method for phase-contrast microscopy images pre-processing so that you can use your favourite H&E model on them through this domain adaptation method built with style transfer networks.
 </details>
 
