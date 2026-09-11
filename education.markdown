@@ -36,6 +36,8 @@ My thesis involves designing machine learning models to understand cancer hetero
 - [Temerty Faculty of Medicine Entrance Scholarship](https://rhse.temertymedicine.utoronto.ca/temerty-graduate-entrance-scholarships-0) (2023)
 
 #### Conference Talks and Presentations
+- Tokyo-Toronto MedTech Innovation Symposium (2026)
+    - *Title:* Longitudinal whole transcriptomic profiling of live-cells using machine learning
 - 2026 Conference on Intelligent Systems for Molecular Biology (ISMB2026)
     - *Title:* PENNE Infers Whole Transcriptomic Profiles from Live-cell Phase Contrast Microscopy Images through Domain Adaptation and Gated Attention
     - *Award*: ISMB2026 Conference Fellowship, STARS21 Travel Award
