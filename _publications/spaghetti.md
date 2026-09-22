@@ -3,8 +3,8 @@ title:          "Leveraging massive H&E morphological models for phase contrast 
 date:           2025-09-1 00:01:00 +0800
 selected:       True
 # pub:            "bioRxiv"
-pub_pre:        "Submitted to Light: Science and Applications; "
-pub_post:       'Under review.'
+pub_pre:        "Submitted to Light: Science and Application (IF = 24.0); "
+pub_post:       'In Press.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 pub_date:       "2025"

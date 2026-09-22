@@ -2,7 +2,7 @@
 title:          "Going below and beyond the surface: Microneedle structure, materials, drugs, fabrication, and applications for wound healing and tissue regeneration"
 date:           2023-09-1 00:01:00 +0800
 selected:       False
-pub:            "Bioactive Materials"
+pub:            "Bioactive Materials (IF = 23.6)"
 # pub_pre:        "Submitted to Light: Science and Applications; "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'

@@ -2,7 +2,7 @@
 title:          "Shedding light on 3D printing: Printing photo-crosslinkable constructs for tissue engineering"
 date:           2022-05-1 00:01:00 +0800
 selected:       False
-pub:            "Journal of Orthopaedic Translation"
+pub:            "Biomaterials (IF = 13.6)"
 # pub_pre:        "Submitted to Light: Science and Applications; "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'

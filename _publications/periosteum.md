@@ -2,7 +2,7 @@
 title:          "Biomimicking design of artificial periosteum for promoting bone healing"
 date:           2022-09-1 00:01:00 +0800
 selected:       False
-pub:            "Journal of Orthopaedic Translation"
+pub:            "Journal of Orthopaedic Translation (IF = 9.8)"
 # pub_pre:        "Submitted to Light: Science and Applications; "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
